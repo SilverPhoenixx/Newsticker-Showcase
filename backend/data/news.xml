@@ -1,0 +1,21 @@
+<data>
+    <users>
+        <user>
+            <username>root</username>
+            <password>$2b$10$/l0kSX1/nUrXjzZpN7fxhue/XmZ8JquE93Jz0AjOqECQHRO42GYKe</password>
+        </user>
+    </users>
+    <newsList>
+        <news>
+            <title>RA</title>
+            <content>BBBB</content>
+        </news>
+        <news>
+            <title>123</title>
+            <content>asdasd</content>
+        </news>
+    </newsList>
+    <configuration>
+        <standardPassword>password123</standardPassword>
+    </configuration>
+</data>

@@ -1,0 +1,29 @@
+{
+  "name": "newsticker",
+  "version": "1.0.0",
+  "description": "Nachrichten Ticker für Ausbildung",
+  "main": "Server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Newsticker"
+  },
+  "keywords": [
+    "newsticker",
+    "ticker",
+    "news"
+  ],
+  "author": "_SilverPhoenix",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "fast-xml-parser": "^4.0.9"
+  }
+}
